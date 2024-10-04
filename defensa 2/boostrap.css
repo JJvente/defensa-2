@@ -1,0 +1,55 @@
+.navbar{
+    margin: 20px;
+}
+.container-fluid{
+    background-color: lightgreen;
+}    
+.col1{
+    background-color: yellow;
+    width: 370px;
+    height: 250px;
+    padding: 15px;
+}
+.col5{
+    background-color: beige;
+    width: 470px;
+    height: 250px; 
+    padding: 15px;
+    border: 1px;
+    border-color: black;
+}
+.col2{
+    background-color: yellowgreen;
+    width: 600px;
+    height: 250px;
+    padding: 15px;
+}
+.col4{
+    background-image: url(imagenes/img10.jpg);
+    width: 850px;
+    height: 250px;
+    padding: 15px;
+}
+.col3{
+    background-color: yellow;
+    width: 350px;
+    height: 250px; 
+    padding: 15px;
+}
+.logo{
+    width: 300px;
+    height: 220px;
+}
+.titulo{
+    font-family: fantasy;
+    text-align: left;
+    font-size: 30px;
+    padding: 15px; 
+}
+p{
+    font-family: cursive;
+    text-align: left;
+}
+.btn{
+    margin-right: 100px;
+}
